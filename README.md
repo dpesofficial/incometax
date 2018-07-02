@@ -8,7 +8,7 @@ $ cd incometax
 $ composer install
 $ npm install
 $ npm run dev
-$ npm artisan key:generate
+$ php artisan key:generate
 $ php artisan serve
 ```
 Navigate to http://127.0.0.1:8000 in your browser.
