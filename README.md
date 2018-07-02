@@ -1,4 +1,4 @@
-# incometax
+# Incometax Calculator
 Income tax calculator for Nepalese
 
 You can follow the setup process:
